@@ -3,7 +3,3 @@ if num>10 :
 print(num)
 if num<11 :
 print(num+2)
-age = 22
-isMarried = False
-print(not age > 21)  # False
-print(not isMarried)  # True
